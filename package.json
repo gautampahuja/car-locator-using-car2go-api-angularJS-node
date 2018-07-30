@@ -1,0 +1,22 @@
+{
+  "name": "c2g",
+  "version": "1.0.0",
+  "description": "Car2Go web application to get vehicles in different locations",
+  "devDependencies": {
+    "angular": "^1.6.4",
+    "angular-mocks": "^1.6.4",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.6.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0",
+    "request": "^2.81.0"
+  },
+  "scripts": {},
+  "author": "Gautam Pahuja",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "morgan": "^1.8.1",
+    "path": "^0.12.7"
+  }
+}

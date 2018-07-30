@@ -1,0 +1,17 @@
+<div class="details">
+    <div class="image-container">
+        <img class="car-image" ng-if="vehicleData.model == 'SMART'" src="img/smart.jpg">
+        <img class="car-image" ng-if="vehicleData.model == 'GLA'" src="img/gla.jpg">
+        <img class="car-image" ng-if="vehicleData.model == 'CLA'" src="img/cla.jpg">
+    </div>
+    <div class="other-details">
+        <span><b>Model: </b>{{vehicleData.model}}</span>
+        <span><b>Fuel Type: </b>{{vehicleData.fuelType}}</span>
+        <span><b>Address: </b>{{vehicleData.address}}</span>
+        <span><b>Number Plate: </b>{{vehicleData.numberPlate}}</span>
+        <span><b>Build Series: </b>{{vehicleData.buildSeries}}</span>
+        <span><b>Child Seat: </b>{{vehicleData.childSeat}}</span>
+        <span><b>Bike Rack: </b>{{vehicleData.bikeRack}}</span>
+        <span><b>Interior: </b>{{vehicleData.interior}}</span>
+    </div>
+</div>

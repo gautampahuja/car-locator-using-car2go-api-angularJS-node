@@ -1,0 +1,143 @@
+Repo URL: https://github.com/gautampahuja/projects
+
+
+
+
+commit 496ce061b371e1167b58c8ee8e3de33e161a63c3
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Thu Apr 20 00:54:05 2017 +0530
+
+    some changes in conf file and readme
+
+commit 60ec552f8115ec216467279272d6b90327563a07
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Wed Apr 19 14:10:03 2017 +0530
+
+    changed README
+
+commit 98c003de34f9d0cba7348c1bbccdcd9ae5a8c811
+Merge: c9149a2 6fc4268
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Wed Apr 19 12:57:26 2017 +0530
+
+    Merge branch 'master' of github.com:gautampahuja/projects
+
+commit c9149a29e5da7a882f70d57991f23ed3cd83d41b
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Wed Apr 19 12:57:12 2017 +0530
+
+    added express to make api calls
+
+commit 6fc42682754c0f81e30934fee7b9ac01b6784d57
+Author: gautampahuja <gautampahuja2003@yahoo.co.in>
+Date:   Tue Apr 18 21:48:25 2017 +0530
+
+    Update package.json
+
+commit 115e27716d69a5fba8f89227dfe753a2c1cc7961
+Author: gautampahuja <gautampahuja2003@yahoo.co.in>
+Date:   Tue Apr 18 21:47:43 2017 +0530
+
+    Update README.md
+
+commit e4dc4ebc26f785320312080a7c79b79096f00689
+Author: gautampahuja <gautampahuja2003@yahoo.co.in>
+Date:   Tue Apr 18 21:41:43 2017 +0530
+
+    Update README.md
+
+commit 0a26d6435e2c4fc36a5241d25917d82c1ea2a649
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Tue Apr 18 17:35:47 2017 +0530
+
+    added some styling
+
+commit 5a13312ea14ac19c1af1faf279c9b17365e2f80e
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Mon Apr 17 17:18:32 2017 +0530
+
+    vmc
+
+commit 76ae163d148b5f5b36f2ae5044af420c7a0a694a
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Mon Apr 17 11:07:55 2017 +0530
+
+    added both factories to service spec
+
+commit 4f5770a4d5c5eb8833e9078a8149897d7063be3c
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Sun Apr 16 22:38:14 2017 +0530
+
+    added karma and express
+
+commit 8170e5b30a3ef5cc1f520ce6987c3ccb2f801abb
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Sun Apr 16 16:46:51 2017 +0530
+
+    added express and testing frameworks
+
+commit c758b14a97de17732e735cfab398b8d2d2cfdf7a
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Sun Apr 16 15:48:07 2017 +0530
+
+    modal styling and don't zoom out map if a vehicle is selected
+
+commit db280aa23ec249ad129f0623985e8206c1b387f4
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Sun Apr 16 14:42:56 2017 +0530
+
+    added some styling in modal
+
+commit eab69bb939d73a32d4fbe7b0f4b26d3a426552f0
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Sun Apr 16 08:53:54 2017 +0530
+
+    refresh data in every 10 seconds
+
+commit b29449dedeb8d8451c5e11a28545251d23aa0f87
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Sat Apr 15 20:43:49 2017 +0530
+
+    changed gitignore
+
+commit 8038f3247bd94d411ec3e6ecbcbcac1306e7e379
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Sat Apr 15 20:43:19 2017 +0530
+
+    changed directory
+
+commit 02c318580b37a1e28076805c2ade497d0fac72cd
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Sat Apr 15 20:17:26 2017 +0530
+
+    added options in modal
+
+commit 8580f436423947fc0822c2fd4958161e22f60c3a
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Sat Apr 15 16:25:27 2017 +0530
+
+    added car image in detail popup
+
+commit 92fd4aac3ea7db5cc34702920d5458cba804f38b
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Sat Apr 15 16:15:54 2017 +0530
+
+    added directive to show vehicle details
+
+commit 56aff2f1a8f7ab204498870078a24e3aa5c39da1
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Sat Apr 15 13:28:43 2017 +0530
+
+    added popup on click on vehicle
+
+commit 578fa2f39f98d2e4deadad63a788e9a313391563
+Author: gautampahuja <gautam@bluestacks.com>
+Date:   Fri Apr 14 15:15:58 2017 +0530
+
+    showing markers and added click event
+
+commit 4d805e103bd5938a3cf099034aa8fdcde104bc36
+Author: gautam-bst <gautam@bluestacks.com>
+Date:   Fri Apr 14 13:03:10 2017 +0530
+
+    init map with user selected location

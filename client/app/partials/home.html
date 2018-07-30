@@ -1,0 +1,19 @@
+<div class="locations-container">
+    <div class="title-head">
+        <img class="logo" src="img/car2go-logo.png">
+
+        <h3>Car Finder</h3>
+    </div>
+    <div class="main-wrapper">
+        <div class="location-body">
+            <span>Please select a location: </span>
+            <select ng-change="locationChanged();" class="location-select" ng-model="selectedLocation"
+                    ng-options="location.locationName for location in locations">
+                <option disabled value="">Please choose a location</option>
+            </select>
+        </div>
+        <!--<h3 ng-if="selectedLocation!=null">Cars in {{selectedLocation.locationName}}</h3>-->
+
+        <div id="map"></div>
+    </div>
+</div>
