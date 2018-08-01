@@ -1,6 +1,3 @@
-Repo URL: https://github.com/gautampahuja/projects
-Project Name: c2g
-
 Building:
 - Go to "c2g" directory and run: sudo npm install (this may take some time).
 
